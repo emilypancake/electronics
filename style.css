@@ -1,0 +1,13 @@
+header {
+    color: red;
+}
+table {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: red;
+    gap: 5vh;
+}
+table img{
+    width: 10vh;
+}
